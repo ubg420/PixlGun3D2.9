@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Pixl Gun 3D",
+"dataUrl": "pickle29.data.unityweb",
+"asmCodeUrl": "pickle29.asm.code.unityweb",
+"asmMemoryUrl": "pickle29.asm.memory.unityweb",
+"asmFrameworkUrl": "pickle29.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
